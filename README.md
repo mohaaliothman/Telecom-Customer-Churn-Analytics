@@ -43,5 +43,5 @@ Evaluation includes:
 ## Report
 A business-focused churn report is included: `BUSINESS_ANALYTICS.pdf` (insights + recommendations).
 
-##Author :
+## Author :
 **Mohammad Ali Othman**
